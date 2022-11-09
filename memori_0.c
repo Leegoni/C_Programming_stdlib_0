@@ -2,7 +2,7 @@
 //  memori_0.c
 //  C_10weels
 //
-//  Created by 이건휘 on 2022/11/09.
+//  Created by Leegonion 2022/11/09.
 //
 
 #include <stdio.h>
